@@ -1,6 +1,6 @@
 ---
 name: blender-export
-description: Use when exporting a finished Blender asset to a game engine or web - FBX or GLB/glTF, axis and scale, apply modifiers, deform-only skeleton, animation clips, textures, naming, import test. Triggers: export, FBX, GLB, glTF, import into Roblox/Unity/Unreal/Godot, scale wrong, rotated 90.
+description: "Use when exporting a finished Blender asset to a game engine or web - FBX or GLB/glTF, axis and scale, apply modifiers, deform-only skeleton, animation clips, textures, naming, import test. Triggers: export, FBX, GLB, glTF, import into Roblox/Unity/Unreal/Godot, scale wrong, rotated 90."
 ---
 # Export (engine profile driven)
 

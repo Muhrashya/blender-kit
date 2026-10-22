@@ -1,6 +1,6 @@
 ---
 name: blender-retopo
-description: Use when converting a high-poly sculpt, scan, boolean-heavy or AI-generated mesh into a clean low-poly game mesh with proper edge flow, then preparing it for bake, UV and rigging. Triggers: retopo, retopology, remesh, high poly to low poly, sculpt to game mesh, messy AI mesh.
+description: "Use when converting a high-poly sculpt, scan, boolean-heavy or AI-generated mesh into a clean low-poly game mesh with proper edge flow, then preparing it for bake, UV and rigging. Triggers: retopo, retopology, remesh, high poly to low poly, sculpt to game mesh, messy AI mesh."
 ---
 # Retopology (high -> low, rig-ready)
 

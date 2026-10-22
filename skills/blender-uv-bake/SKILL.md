@@ -1,6 +1,6 @@
 ---
 name: blender-uv-bake
-description: Use for UV unwrapping, seams, texel density, UV packing, and baking normal, AO or curvature maps from high-poly to low-poly, or palette UVs for voxel and lowpoly styles. Triggers: UV, unwrap, seam, texel density, bake, normal map, AO, texture stretched.
+description: "Use for UV unwrapping, seams, texel density, UV packing, and baking normal, AO or curvature maps from high-poly to low-poly, or palette UVs for voxel and lowpoly styles. Triggers: UV, unwrap, seam, texel density, bake, normal map, AO, texture stretched."
 ---
 # UV and bake
 

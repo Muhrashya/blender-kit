@@ -1,6 +1,6 @@
 ---
 name: blender-material
-description: Use when creating or fixing materials that must export to a game engine - Principled-only PBR, palette materials, emissive or glow, transparency modes, texture slots, color spaces, texture naming. Triggers: material, color, metal, glow, emission, transparent, PBR, palette, shader, texture slots.
+description: "Use when creating or fixing materials that must export to a game engine - Principled-only PBR, palette materials, emissive or glow, transparency modes, texture slots, color spaces, texture naming. Triggers: material, color, metal, glow, emission, transparent, PBR, palette, shader, texture slots."
 ---
 # Material (exportable PBR only)
 

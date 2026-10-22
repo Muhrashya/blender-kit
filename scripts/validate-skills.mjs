@@ -21,7 +21,13 @@ function frontmatter(text) {
   const o = {};
   for (const line of m[1].split("\n")) {
     const i = line.indexOf(":");
-    if (i > 0) o[line.slice(0, i).trim()] = line.slice(i + 1).trim();
+    if (i > 0) {
+      let val = line.slice(i + 1).trim();
+      if ((val.startsWith('"') && val.endsWith('"')) || (val.startsWith("'") && val.endsWith("'"))) {
+        val = val.slice(1, -1);
+      }
+      o[line.slice(0, i).trim()] = val;
+    }
   }
   return o;
 }

@@ -1,6 +1,6 @@
 ---
 name: blender-camera
-description: Use when planning or animating cinematic camera work in Blender - shot lists, shot sizes, angles, lenses, camera moves (static, pan, whip pan, tilt, push in, pull out, zoom, dolly zoom, roll, tracking/truck, arc, boom/crane, handheld, bird's-eye), turntables, hero reveals, VFX showcase and trailer shots. Triggers: camera, shot, cinematic, dolly, tracking, kamera, sinematik.
+description: "Use when planning or animating cinematic camera work in Blender - shot lists, shot sizes, angles, lenses, camera moves (static, pan, whip pan, tilt, push in, pull out, zoom, dolly zoom, roll, tracking/truck, arc, boom/crane, handheld, bird's-eye), turntables, hero reveals, VFX showcase and trailer shots. Triggers: camera, shot, cinematic, dolly, tracking, kamera, sinematik."
 ---
 # Camera (cinematic shots)
 

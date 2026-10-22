@@ -1,6 +1,6 @@
 ---
 name: blender-hands
-description: Use when building, fixing or retopologizing hands, fingers, thumbs, gloves, paws or claws for a character or creature - clean ring continuity from forearm to fingertip, joint loops, low triangle counts and an easy-to-weight rig. Triggers: hand, finger, thumb, glove, paw, claw, tangan, jari.
+description: "Use when building, fixing or retopologizing hands, fingers, thumbs, gloves, paws or claws for a character or creature - clean ring continuity from forearm to fingertip, joint loops, low triangle counts and an easy-to-weight rig. Triggers: hand, finger, thumb, glove, paw, claw, tangan, jari."
 ---
 # Hands (rig-ready, low triangles)
 

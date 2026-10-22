@@ -1,6 +1,6 @@
 ---
 name: blender-animate
-description: Use when creating game animation clips in Blender - idle, walk, run, attack, interactions, prop animations; loops, root motion, frame ranges, clip naming, NLA, export-ready actions. Triggers: animate, animation, walk, run, idle, attack, loop, clip, keyframe, NLA.
+description: "Use when creating game animation clips in Blender - idle, walk, run, attack, interactions, prop animations; loops, root motion, frame ranges, clip naming, NLA, export-ready actions. Triggers: animate, animation, walk, run, idle, attack, loop, clip, keyframe, NLA."
 ---
 # Animate (game clips)
 

@@ -1,6 +1,6 @@
 ---
 name: blender-rig
-description: Use when rigging a mesh for a game - armature, bone hierarchy and naming, skin weights, influence limits, rigid-part rigs, test poses, deform-only export skeleton. Triggers: rig, armature, bone, skin, weights, IK, deform, mesh tears when bent. Requires a topology-clean mesh.
+description: "Use when rigging a mesh for a game - armature, bone hierarchy and naming, skin weights, influence limits, rigid-part rigs, test poses, deform-only export skeleton. Triggers: rig, armature, bone, skin, weights, IK, deform, mesh tears when bent. Requires a topology-clean mesh."
 ---
 # Rig (game skeleton + weights)
 
