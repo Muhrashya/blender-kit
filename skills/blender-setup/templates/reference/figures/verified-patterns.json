@@ -1,0 +1,196 @@
+[
+  {
+    "pattern": "1 to 1",
+    "columns_bottom": 1,
+    "columns_top": 1,
+    "outer_sides": [
+      1,
+      1
+    ],
+    "vertices": 4,
+    "faces": 1,
+    "all_quads": true,
+    "boundary_edges": 4,
+    "parity_even": true,
+    "interior_valences": [],
+    "poles_3": 0,
+    "poles_5": 0,
+    "min_edge_ratio": 0.5,
+    "errors": [],
+    "ok": true,
+    "drawn": true
+  },
+  {
+    "pattern": "2 to 1",
+    "columns_bottom": 2,
+    "columns_top": 1,
+    "outer_sides": [
+      1,
+      2
+    ],
+    "vertices": 7,
+    "faces": 3,
+    "all_quads": true,
+    "boundary_edges": 6,
+    "parity_even": true,
+    "interior_valences": [
+      3
+    ],
+    "poles_3": 1,
+    "poles_5": 0,
+    "min_edge_ratio": 0.5,
+    "errors": [],
+    "ok": true,
+    "drawn": true
+  },
+  {
+    "pattern": "3 to 1",
+    "columns_bottom": 3,
+    "columns_top": 1,
+    "outer_sides": [
+      1,
+      1
+    ],
+    "vertices": 8,
+    "faces": 4,
+    "all_quads": true,
+    "boundary_edges": 6,
+    "parity_even": true,
+    "interior_valences": [
+      3,
+      3
+    ],
+    "poles_3": 2,
+    "poles_5": 0,
+    "min_edge_ratio": 0.33,
+    "errors": [],
+    "ok": true,
+    "drawn": true
+  },
+  {
+    "pattern": "3 to 2",
+    "columns_bottom": 3,
+    "columns_top": 2,
+    "outer_sides": [
+      1,
+      2
+    ],
+    "vertices": 10,
+    "faces": 5,
+    "all_quads": true,
+    "boundary_edges": 8,
+    "parity_even": true,
+    "interior_valences": [
+      3,
+      4
+    ],
+    "poles_3": 1,
+    "poles_5": 0,
+    "min_edge_ratio": 0.5,
+    "errors": [],
+    "ok": true,
+    "drawn": true
+  },
+  {
+    "pattern": "4 to 2",
+    "columns_bottom": 4,
+    "columns_top": 2,
+    "outer_sides": [
+      1,
+      1
+    ],
+    "vertices": 11,
+    "faces": 6,
+    "all_quads": true,
+    "boundary_edges": 8,
+    "parity_even": true,
+    "interior_valences": [
+      3,
+      3,
+      4
+    ],
+    "poles_3": 2,
+    "poles_5": 0,
+    "min_edge_ratio": 0.5,
+    "errors": [],
+    "ok": true,
+    "drawn": true
+  },
+  {
+    "pattern": "5 to 3",
+    "columns_bottom": 5,
+    "columns_top": 3,
+    "outer_sides": [
+      1,
+      1
+    ],
+    "vertices": 13,
+    "faces": 7,
+    "all_quads": true,
+    "boundary_edges": 10,
+    "parity_even": true,
+    "interior_valences": [
+      3,
+      3,
+      4
+    ],
+    "poles_3": 2,
+    "poles_5": 0,
+    "min_edge_ratio": 0.47,
+    "errors": [],
+    "ok": true,
+    "drawn": true
+  },
+  {
+    "pattern": "6 to 3",
+    "columns_bottom": 6,
+    "columns_top": 3,
+    "outer_sides": [
+      1,
+      2
+    ],
+    "vertices": 16,
+    "faces": 9,
+    "all_quads": true,
+    "boundary_edges": 12,
+    "parity_even": true,
+    "interior_valences": [
+      3,
+      3,
+      3,
+      4
+    ],
+    "poles_3": 3,
+    "poles_5": 0,
+    "min_edge_ratio": 0.5,
+    "errors": [],
+    "ok": true,
+    "drawn": false
+  },
+  {
+    "pattern": "6 to 2",
+    "columns_bottom": 6,
+    "columns_top": 2,
+    "outer_sides": [
+      1,
+      1
+    ],
+    "vertices": 14,
+    "faces": 8,
+    "all_quads": true,
+    "boundary_edges": 10,
+    "parity_even": true,
+    "interior_valences": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "poles_3": 4,
+    "poles_5": 0,
+    "min_edge_ratio": 0.33,
+    "errors": [],
+    "ok": true,
+    "drawn": false
+  }
+]

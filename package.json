@@ -1,0 +1,34 @@
+{
+  "name": "blender-kit",
+  "version": "0.3.0",
+  "description": "Agent Skills for Blender: game-ready assets, clean topology, retopology, rigging, animation, cinematic camera and VFX (realistic or low-poly) with swappable engine profiles.",
+  "type": "module",
+  "license": "MIT",
+  "keywords": [
+    "blender",
+    "agent-skills",
+    "claude-code",
+    "cursor",
+    "codex",
+    "antigravity",
+    "mcp",
+    "gamedev"
+  ],
+  "scripts": {
+    "validate": "node scripts/validate-skills.mjs",
+    "bundle:chatgpt": "node scripts/bundle-chatgpt.mjs",
+    "check": "node scripts/validate-skills.mjs && python3 -m compileall -q skills/blender-setup/templates/scripts",
+    "figures": "python3 tools/make_figures.py"
+  },
+  "files": [
+    "skills",
+    ".claude-plugin",
+    "mcp",
+    "docs",
+    "evals",
+    "scripts",
+    "README.md",
+    "LICENSE",
+    "tools"
+  ]
+}

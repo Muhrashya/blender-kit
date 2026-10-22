@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "blender-kit",
+  "description": "Blender skills pack: assets, topology, rig, animation, VFX.",
+  "owner": { "name": "blender-kit contributors" },
+  "plugins": [
+    {
+      "name": "blender-kit",
+      "source": "./",
+      "description": "21 skills: /blender router with state and intent switching, setup, diagnose, ref analysis, modeling, topology, topology-fix, retopo, hands, UV/bake, material, rig, animate, cinematic camera, VFX (realistic or low-poly: router, mesh, flipbook, texture, sim), QA, export.",
+      "category": "creative",
+      "author": { "name": "blender-kit contributors" }
+    }
+  ]
+}

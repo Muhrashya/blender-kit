@@ -1,0 +1,17 @@
+{
+  "name": "blender-kit",
+  "version": "0.3.0",
+  "description": "Blender skills for game-ready assets, clean topology, retopology, rigging, animation and VFX. Engine-agnostic via swappable profiles.",
+  "author": {
+    "name": "blender-kit contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "blender",
+    "gamedev",
+    "3d",
+    "vfx",
+    "retopology",
+    "mcp"
+  ]
+}
